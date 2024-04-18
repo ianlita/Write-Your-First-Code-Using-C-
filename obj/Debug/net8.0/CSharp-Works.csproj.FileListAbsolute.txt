@@ -1,0 +1,14 @@
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\bin\Debug\net8.0\CSharp-Works.exe
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\bin\Debug\net8.0\CSharp-Works.deps.json
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\bin\Debug\net8.0\CSharp-Works.runtimeconfig.json
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\bin\Debug\net8.0\CSharp-Works.dll
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\bin\Debug\net8.0\CSharp-Works.pdb
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\obj\Debug\net8.0\CSharp-Works.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\obj\Debug\net8.0\CSharp-Works.AssemblyInfoInputs.cache
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\obj\Debug\net8.0\CSharp-Works.AssemblyInfo.cs
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\obj\Debug\net8.0\CSharp-Works.csproj.CoreCompileInputs.cache
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\obj\Debug\net8.0\CSharp-Works.dll
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\obj\Debug\net8.0\refint\CSharp-Works.dll
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\obj\Debug\net8.0\CSharp-Works.pdb
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\obj\Debug\net8.0\CSharp-Works.genruntimeconfig.cache
+C:\Users\Christian Losamia\Documents\GitHub\CSharp-Works\obj\Debug\net8.0\ref\CSharp-Works.dll

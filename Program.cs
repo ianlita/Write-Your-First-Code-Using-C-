@@ -43,6 +43,3 @@ Console.WriteLine($"{course4Name}\t{course4Grade}\t\t{course4Credit}\t\t{course4
 Console.WriteLine($"{course5Name}\t\t{course5Grade}\t\t{course5Credit}\t\t{course5GradePoints}\n");
 Console.WriteLine($"Final GPA:\t\t{leadingDigit}.{firstDigit}{secondDigit}");
 Console.ReadKey();
-
-
-
